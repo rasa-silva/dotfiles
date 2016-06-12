@@ -158,6 +158,7 @@ bar {
 
 #new_window pixel 1
 hide_edge_borders both
+focus_follows_mouse no
 
 set $mode_power power
 bindsym Mod1+Control+l mode "$mode_power"
