@@ -2,7 +2,8 @@ Xft.antialias: true
 
 ! urxvt
 URxvt.scrollBar: false
-URxvt.font: xft:Inconsolata for Powerline:size=12
+URxvt.cursorUnderline: true
+URxvt.font: xft:Source Code Pro for Powerline:Medium:size=10
 
 ! rofi
 rofi.font: Noto Sans 12
