@@ -136,4 +136,4 @@ bindsym XF86KbdBrightnessUp exec "sh ~/backlight.sh on"
 #exec --no-startup-id rofi -key-window F1 -key-run F2
 exec --no-startup-id compton -b
 exec --no-startup-id ~/.fehbg
-exec lxpolkit
+exec --no-startup-id lxpolkit
